@@ -3,8 +3,7 @@ layout: page
 nav_title: CV
 head_title: Curriculum Vitae
 subtitle: Curriculum Vitae
-weight: 3
-permalink: /cv
+weight: 2
 ---
 
 {% marginnote 'CV' "Most of the projects I have completed are related to my university coursework, however I hope, with this website, to increase the share of personal projects.
