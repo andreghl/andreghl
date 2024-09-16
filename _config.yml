@@ -6,7 +6,8 @@ baseurl: ""
 author: André
 show_author: true
 permalink: /blog/:year/:title.html
-markdown: kramdown
+kramdown:
+  math_engine: katex
 
 # Build settings
 theme: jekyll-theme-tufte
