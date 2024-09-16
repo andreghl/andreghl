@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+head_title: Blog
 weight: 2
 ---
 
