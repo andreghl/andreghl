@@ -2,7 +2,7 @@
 layout: page
 nav_title: CV
 head_title: Curriculum Vitae
-subtitle: Curriculum Vitae
+title: Curriculum Vitae
 weight: 3
 ---
 
