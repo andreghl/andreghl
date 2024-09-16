@@ -12,4 +12,4 @@ weight: 2
 {% marginnote 'top-lang' "[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=andreghl&layout=compact&card_width=320&hide=ipynb&theme=swift)](https://github.com/andreghl)
 <br> <br> These projects also lead me to learn technical skills such as programming and data analysis." %}
 
-[![CV](assets/cv.svg)](https://docs.google.com/document/d/1yoreWQ4UAUJRx1FQU-_LLRoNY1O2R3lI4n3OlX06vRM/edit?usp=sharing)
+[![CV](../assets/cv.svg)](https://docs.google.com/document/d/1yoreWQ4UAUJRx1FQU-_LLRoNY1O2R3lI4n3OlX06vRM/edit?usp=sharing)
