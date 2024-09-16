@@ -8,8 +8,10 @@ show_author: true
 permalink: /blog/:year/:title.html
 kramdown:
   math_engine: katex
+url: "https://example.com" # the base hostname & protocol for your site
 
 # Build settings
 theme: jekyll-theme-tufte
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
