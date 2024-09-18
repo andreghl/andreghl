@@ -4,6 +4,7 @@ description: >-
   Statistics, Actuarial sciences, and Economic research.
 baseurl: ""
 author: André
+email: contact@andreghonda.com
 show_author: true
 permalink: /blog/:year/:title.html
 kramdown:
