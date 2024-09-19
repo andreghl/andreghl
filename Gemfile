@@ -19,6 +19,7 @@ group :jekyll_plugins do
   gem 'jekyll-theme-tufte'
   gem 'kramdown-math-katex'
   gem 'jekyll-sitemap', '~> 1.4'
+  gem 'jekyll-seo-tag'
 end
 
 
