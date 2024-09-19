@@ -2,6 +2,7 @@
 layout: post
 title: "Analysis of Trends in Temperature"
 date: 2024-04-09
+published: false
 ---
 
 {% marginfigure 'Paper' "../assets/temp-trend.svg" 'This is a summary of the main points that were presented in a group paper that I wrote for my Mathematical Statistics class.'%}
