@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**andreghl/andreghl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I am André! An Economics student at Maastricht University in the Netherlands. I am interested in Econometrics and would like to pursue a Master's in Econometrics in the Netherlands. I usually like to work with ```R```, but I am open to learning new languages. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Why Programming?
+
+What amazes me the most about programming is the fact that everything seems possible. The only limit to your creativity is your own mind, and thus it is always nice to try to push the boundaries of what you know.
+
+### Experience
+
+Although my programming knowledge is very limited, I do happen to have some experience in ```R```, and ```Julia``` which I have used extensively during my courses. I can somewhat manage to use ```HTML```, and ```CSS```, although I still need to motivate myself to learn ```JavaScript``` and ```Python```. I will be learning ```Java``` in a course starting in November 2024, and I hope, during my master's, to learn ```C```, and ```C++```.
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=andreghl&layout=compact&card_width=320&hide=ipynb&theme=swift)
+
+Do not hesitate to contact me! And check out my [website](https://andreghonda.com/).
