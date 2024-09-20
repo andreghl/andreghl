@@ -3,6 +3,7 @@ layout: page
 title: Blog
 head_title: Blog
 weight: 2
+full_width: true
 ---
 
 {%- for post in site.posts -%}
