@@ -10,7 +10,7 @@ What amazes me the most about programming is the fact that everything seems poss
 
 ### Experience
 
-Although my programming knowledge is very limited, I do happen to have some experience in ```R```, and ```Julia``` which I have used extensively during my courses. I can somewhat manage to use ```HTML```, and ```CSS```, although I still need to motivate myself to learn ```JavaScript``` and ```Python```. I will be learning ```Java``` in a course starting in November 2024, and I hope, during my master's, to learn ```C```, and ```C++```.
+Although my programming knowledge is very limited, I do happen to have some experience in ```R```, and ```Julia``` which I have used extensively during my courses. I can somewhat manage to use ```HTML```, and ```CSS```, but I still need to motivate myself to learn ```JavaScript``` and ```Python```. I will be learning ```Java``` in a course starting in November 2024.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=andreghl&layout=compact&card_width=320&hide=ipynb&theme=swift)
 
