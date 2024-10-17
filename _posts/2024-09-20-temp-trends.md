@@ -40,7 +40,7 @@ Measuring the statistical significance of the possible trend requires us to make
 
 ## Code
 
-Note that for this assignment, we were required to code most of the statistical methods we wished to use ourselves. Our output is often slightly different from the standard methods due to *(lack of)* rounding. The full code can be found [here](https://github.com/andreghl/uni/tree/main/ebc2107).
+Note that for this assignment, we were required to code most of the statistical methods we wished to use ourselves. Our output is often slightly different from the standard methods due to *(lack of)* rounding.
 
 ## Research
 
@@ -122,7 +122,7 @@ The output of the t-test implies that we fail to reject the null hypothesis. The
 
 {% marginnote 'Q' "The histogram shows the distribution of the Bootstrap T-statistics." %}
 
-The Bootstrap is a statistical technique developed by Bradley Efron. Essentially, the original sample is randomly resampled with replacement a large number of times to improve the estimates of our coefficients. The speed of our computers led us to chose a replication size of $1000$ for the bootstrap. In Figure $7$, we see that the distribution is less skewed than before. The distribution seems to be converging to a Normal distribution. Since the standard deviation of the population model is unknown, we assume a T-distribution.
+The Bootstrap is a statistical technique developed by [Bradley Efron](https://en.wikipedia.org/wiki/Bradley_Efron). Essentially, the original sample is randomly resampled with replacement a large number of times to improve the estimates of our coefficients. The speed of our computers led us to chose a replication size of $1000$ for the bootstrap. In Figure $7$, we see that the distribution is less skewed than before. The distribution seems to be converging to a Normal distribution. Since the standard deviation of the population model is unknown, we assume a T-distribution.
 
 We construct a tow-tailed $95\%$ confidence interval around the mean $[9.262; 9.585]$, and can reasonably expect the population mean to lie within these bounds. Earlier, we considered the subsample starting in $1974$, the bootstrap confidence interval for the mean of this subsample is $[9.825; 10.294]$. This slightly wider interval indicates that the mean of the sample has shifted upwards. Also, given that there is no overlap between the bootstrap confidence interval for the full sample and that for the *"after 1974"* subsample, it can be concluded the means of those samples are significantly different from one another. This goes in line with previously drawn conclusions.
 
