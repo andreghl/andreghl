@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am André! An Economics student at Maastricht University in the Netherlands. I am interested in Econometrics and would like to pursue a Master's in Econometrics in the Netherlands. I usually like to work with ```R```, but I am open to learning new languages. 
+I am André! An Economics student at Maastricht University in the Netherlands. I am interested in Econometrics and would like to pursue a Master's in Econometrics in the Netherlands. I usually like to work with ```R```, but I am open to learning new languages.
 
 ### Why Programming?
 
@@ -10,7 +10,7 @@ What amazes me the most about programming is the fact that everything seems poss
 
 ### Experience
 
-Although my programming knowledge is very limited, I do happen to have some experience in ```R```, and ```Julia``` which I have used extensively during my courses. I can somewhat manage to use ```HTML```, and ```CSS```, but I still need to motivate myself to learn ```JavaScript``` and ```Python```. I will be learning ```Java``` in a course starting in November 2024.
+Although my programming knowledge is very limited, I do happen to have some experience in ```R```, and ```Julia``` which I have used extensively during my courses. I can somewhat manage to use ```HTML```, and ```CSS```, but I still need to motivate myself to learn ```JavaScript``` and ```Python```. I have followed an introductory ```Java``` course in November and December of 2024.
 
 <div align="center">
 
