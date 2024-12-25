@@ -1,0 +1,13 @@
+/**
+ * Syntax highlighting styles
+ */
+
+
+@media (prefers-color-scheme: dark) {
+    @import "_style_github";
+}
+    
+
+@media (prefers-color-scheme: light) {
+    @import "_style_github";
+}
