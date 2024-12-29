@@ -14,7 +14,7 @@ Although my programming knowledge is very limited, I do happen to have some expe
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=andreghl&layout=compact&card_width=320&hide=ipynb,html,ruby&theme=swift)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=andreghl&layout=compact&card_width=320&hide=ipynb,html,ruby,scss,css&theme=swift)
 
 </div>
 
