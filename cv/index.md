@@ -6,4 +6,6 @@ title: Curriculum Vitae
 weight: 3
 ---
 
-[![CV](../assets/cv.svg)](https://docs.google.com/document/d/1yoreWQ4UAUJRx1FQU-_LLRoNY1O2R3lI4n3OlX06vRM/edit?usp=sharing)
+{% marginnote 'links' "Additionally, check out my [LinkedIn](https://www.linkedin.com/in/andreghonda) and [GitHub](https://github.com/andreghl) profiles." %}
+
+[![CV](../assets/cv.svg)]({{baseurl}}/assets/cv.pdf)

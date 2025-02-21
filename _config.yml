@@ -3,7 +3,7 @@ description: >-
   Economics student interested in Econometrics, 
   Statistics, Actuarial sciences, and Economic research.
 baseurl: ""
-author: André
+author: André-Ignace Ghonda Lukoki
 show_author: true
 permalink: /blog/:year/:title.html
 kramdown:
