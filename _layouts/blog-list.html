@@ -12,11 +12,11 @@ full_width: true
 </ul>
   {% endunless %}
 <h2 id="{{ currentyear }}">{{ currentyear }}</h2>
-<ul>
+<ul class = "posts">
   {%- assign prevyear = currentyear -%}
 {% endif %}
   <li>
-    <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} </a></p>
+    <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} </a></h3>
   </li>
 {%- if forloop.last %}
 </ul>
@@ -24,3 +24,9 @@ full_width: true
 {% else %}
 <p>Watch this space for the first post!</p>
 {% endfor %}
+
+<style>
+  ul.posts {
+    list-style-type: none;
+  }
+</style>

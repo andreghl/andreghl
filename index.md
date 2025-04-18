@@ -6,4 +6,4 @@ subtitle: André-Ignace Ghonda Lukoki
 weight: 1
 ---
 
-I am a BSc Economics student at Maastricht University in the Netherlands with an interest in Econometrics.
+I am a BSc Economics student at Maastricht University in the Netherlands with an interest in Econometrics, Actuarial Sciences, and Operations Research. 
