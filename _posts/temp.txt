@@ -1,9 +1,4 @@
----
-layout: post
-title: "Risk Neutrality"
-date: 2025-04-25
-published: true
----
+\, [], {}, #
 
 In a recent course at the Norwegian School of Economics, we delved into the mathematical modeling of financial markets. The course was restricted to the study of markets composed of one risk-free asset, a bond, and one or more risky assets such as stocks and financial derivatives in a discrete time setting. The pricing of financial derivatives is a crucial issue in finance and relies on the condition of non-arbitrage.
 
@@ -48,3 +43,4 @@ E_{\mathbb{Q}}[\tilde{V}^{\varphi}(1)] = V^{\varphi}(0)
 $$
 
 This post contains a very short presentation of the course content and of course more content on mathematical finance could likely follow.
+
