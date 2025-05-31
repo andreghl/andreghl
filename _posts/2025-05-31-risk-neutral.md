@@ -46,4 +46,4 @@ $$
 \end{split}
 $$
 
-These results derived for discrete-time single period models can be extended to multiperiod market models quite easily. However, multiperiod modelling requires the introduction of new concepts such as information flows and martingales.
+The results derived for discrete-time single period models can be extended to multiperiod market models quite easily. However, multiperiod modelling requires the introduction of new concepts such as information flows and martingales.
