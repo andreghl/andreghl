@@ -8,6 +8,7 @@ show_author: true
 permalink: /blog/:year/:title.html
 kramdown:
   math_engine: katex
+  syntax_highlighter: rouge
 url: "https://andreghonda.com" # the base hostname & protocol for your site
 
 # Build settings
