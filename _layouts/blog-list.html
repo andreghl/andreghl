@@ -5,6 +5,7 @@ full_width: true
 ---
 <h1>Blog</h1>
 
+<ul>
 {%- for post in site.posts -%}
 {%- assign currentyear = post.date | date: "%Y" -%}
 {%- if currentyear != prevyear -%}
@@ -16,7 +17,7 @@ full_width: true
   {%- assign prevyear = currentyear -%}
 {% endif %}
   <li>
-    <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} </a></h3>
+    <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> — <span style="font-style: italic">{{ post.date | date: '%B %-d' }}</span></p>
   </li>
 {%- if forloop.last %}
 </ul>

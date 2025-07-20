@@ -8,3 +8,8 @@ weight: 3
 
 [![CV](../assets/cv.svg)]({{baseurl}}/assets/cv.pdf)
 
+<style>
+    img {
+      border: 1px solid grey;
+    }
+</style>

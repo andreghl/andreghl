@@ -24,17 +24,6 @@ layout: default
   });
 </script>
 
-<script src="https://unpkg.com/mermaid@8.9.3/dist/mermaid.min.js"></script>
-<script>
-  $(document).ready(function () {
-    mermaid.initialize({
-      startOnLoad:true,
-      theme: "default",
-    });
-    window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
-  });
-</script>
-
 <style>
 .highlight .err {
         color: inherit;
@@ -52,8 +41,9 @@ layout: default
       margin-right: 45%;
     }
 
-
-
+    img {
+      border: 1px solid grey
+    }
 </style>
 </head>
 
