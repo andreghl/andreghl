@@ -1,9 +1,9 @@
 @charset "utf-8";
 
-@use "../../_sass/settings";
-@use "../../_sass/tufte";
-@use "../../_sass/extras";
-@use "../../_sass/syntax-highlighting";
-@use "../../_sass/site-style";
+@use "settings";
+@use "tufte";
+@use "extras";
+@use "syntax-highlighting";
+@use "site-style";
 
 /* Put site-local CSS overrides in _sass/site-style.scss */
