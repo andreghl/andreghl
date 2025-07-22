@@ -1,6 +1,8 @@
+@use "settings";
+
 /* Overrides and additional CSS functionality */
 
-.contrast { color: $contrast-color;}
+.contrast { color: settings.$contrast-color;}
 .smaller { font-size: 80%;}
 .larger { font-size: 2.8rem;}
 
@@ -57,7 +59,7 @@ header > nav a {
   font-size: 1.3rem;
   letter-spacing: 0.15em;
   text-transform: uppercase;
-  color: $contrast-color;
+  color: settings.$contrast-color;
   text-decoration: none;
   background: unset !important;
   text-shadow: unset !important;
@@ -347,7 +349,7 @@ p, li { line-height: 2rem;
         vertical-align: baseline; }
 
 
-.sans { font-family: $sans-font;
+.sans { font-family: settings.$sans-font;
         letter-spacing: .03em; }
 
 
@@ -355,7 +357,7 @@ p, li { line-height: 2rem;
 // also added p code, p pre code and pre selector to account for Markdown parsing
 // of triple backticks plus rationalized line-heights and margins
 pre, pre code, p code, p pre code {
-    font-family: $code-font;
+    font-family: settings.$code-font;
     font-size: 1rem;
     line-height: 1.71428571;
     margin-top: 1.71428571rem;
