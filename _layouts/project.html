@@ -40,6 +40,11 @@ layout: default
       margin-left: 2.5%;
       margin-right: 45%;
     }
+
+    .description {
+      font-size: 1rem;
+      color: grey;
+    }
 </style>
 </head>
 
@@ -52,12 +57,16 @@ layout: default
   %} {{ page.date | date: "%B %-d, %Y" }}
 </p>
 
+{%- if page.description %}
+<p class="description">{{ page.description }}</p>
+{% endif -%}
+
 {{ content }}
 
 <section>
   <div style="clear: both"></div>
   <p class="backarrow">
-    <a href="{% link blog/index.md %}">← Back to all posts</a>
+    <a href="{% link code/index.md %}">← Back to all projects</a>
   </p>
 </section>
 
