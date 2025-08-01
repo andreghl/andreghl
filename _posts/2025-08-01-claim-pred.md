@@ -2,8 +2,7 @@
 layout: post
 title: "Claims Prediction"
 subtitle: "Part I: Understanding the Data"
-date: 2025-07-20
-published: true
+date: 2025-08-01
 ---
 
 In Spring of 2024, I joined a workshop organized by AXA Germany at the Maastricht Business Days. The actuaries presented their work in the automotive insurance segment of the business and tasked us with determining the best model specification to most accurately predict insurance claims in the auto insurance sector. The aim of this project to gain a better understanding of logistic regression in ```R```. 
