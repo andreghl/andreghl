@@ -17,6 +17,11 @@ collections:
 kramdown:
   math_engine: katex
   syntax_highlighter: rouge
+  math_engine_opts:
+    katex:
+      delimiters:
+        - ['$$', '$$']
+        - ['$', '$']
 url: "https://andreghonda.com" # the base hostname & protocol for your site
 
 # Build settings

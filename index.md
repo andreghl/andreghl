@@ -8,4 +8,8 @@ weight: 1
 
 {% marginnote 'cv' "[![CV](assets/cv.svg)](assets/cv.pdf)" %}
 
-*This is corner of the internet where I write about various topics I find interesting.* I am a BSc Economics and Business Economics student at Maastricht University in the Netherlands with an expected graduation in July 2025 and my coursework has mainly focused on economic theory and econometrics. In September 2025, I will start a master's in Econometrics and Operations Research.
+*This is corner of the internet where I write about various topics I find interesting.* I am a MSc Econometrics and Operations Research student at Maastricht University in the Netherlands and I have recently graduated with a BSc in Economics and Business Economics at the same university. I am interested in statistics and the intersection between programming and economics.
+
+---
+
+{% include contact.html %}
