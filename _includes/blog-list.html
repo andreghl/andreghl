@@ -1,0 +1,60 @@
+<ul>
+{%- for post in site.posts -%}
+{%- assign currentyear = post.date | date: "%Y" -%}
+{%- if currentyear != prevyear -%}
+  {% unless forloop.first %}
+</ul>
+  {% endunless %}
+<h2 id="{{ currentyear }}">{{ currentyear }}</h2>
+<ul class = "posts">
+  {%- assign prevyear = currentyear -%}
+{% endif %}
+  <li>
+    <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+    <small><span class = "date">{{ post.date | date: '%b %d, %Y.' }}</span> {{ post.description }} </small>
+  </li>
+{%- if forloop.last %}
+</ul>
+{%- endif -%}
+{% else %}
+<p>Watch this space for the first post!</p>
+{% endfor %}
+
+<style>
+
+  .posts {
+    width: 50%;
+  }
+
+  ul.posts {
+    list-style-type: none;
+  }
+
+  small.date {
+    font-style: italic;
+    color: #666;
+  }
+
+  p {
+    margin: 20px 5px 0px 0px;
+    text-align: left;
+    font-size: larger;
+  }
+
+  small {
+    width: 40%;
+  }
+
+  @media (max-width: 760px) {
+    
+    p {
+      font-size: smaller;
+    }
+
+    small {
+      display: none;
+      visibility: hidden;
+    }
+  }
+
+</style>

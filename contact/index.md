@@ -1,8 +1,9 @@
 ---
 layout: page
+nav_title: Contact
 head_title: Contact Me
 title: Contact Form
-nav_exclude: true 
+weight: 3
 ---
 ---
 
