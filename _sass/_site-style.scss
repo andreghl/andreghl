@@ -1,13 +1,18 @@
 /* Override this file in your site to create any custom site-local CSS */
 
 a img {
-    text-decoration: none;
+  text-decoration: none;
 }
 
-.marginnote, .sidenote, h1, h2, h3, figcaption {
-    text-align: left;
+.marginnote,
+.sidenote,
+h1,
+h2,
+h3,
+figcaption {
+  text-align: left;
 }
 
 iframe {
-    width: 87.5%;
+  width: 87.5%;
 }

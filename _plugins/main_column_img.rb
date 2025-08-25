@@ -1,0 +1,1 @@
+require_relative "../lib/jekyll-theme-tufte/main_column_img.rb"
