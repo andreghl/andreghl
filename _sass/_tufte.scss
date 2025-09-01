@@ -238,7 +238,7 @@ a:link::-moz-selection {
 
 /* Sidenotes, margin notes, figures, captions */
 img {
-    max-width: 100%;
+    max-width: 80%;
 }
 
 .sidenote,
@@ -448,6 +448,6 @@ label.margin-toggle:not(.sidenote-number) {
     }
 
     img {
-        width: 100%;
+        width: 50%;
     }
 }
