@@ -10,9 +10,20 @@ h1,
 h2,
 h3,
 figcaption {
-  text-align: left;
+  text-align: justify;
 }
 
 iframe {
   width: 87.5%;
 }
+
+/* Customize scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #555 #fffff8;
+}
+
+
+figure.fullwidth {
+  margin-bottom: 15px;
+  }
