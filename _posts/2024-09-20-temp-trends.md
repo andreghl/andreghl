@@ -34,7 +34,7 @@ The series appear smoother than in the original plot. What appeared to be a posi
 
 {% marginfigure 'Fig3' "../assets/temp-trends/3.jpeg" 'Figure 3: Histogram of ```Netherlands```' %}
 
-The paper relies exclusively on the use of ordinary least squares regression to estimate the trend in the temperature data. This method is sensible to the presence of outliers which tends to bias the estimated coefficients. Their presence can be investigated using a histogram. The plot only shows the possibility of right-skewness which could hint towards an upward trend in the data{% sidenote 'Fig3' "The skewness indicates that above-average temperatures are less common than those below while being more likely to deviate further from the mean." %}.
+The paper relies exclusively on the use of ordinary least squares regression to estimate the trend in the temperature data. This method is sensible to the presence of outliers which tends to bias the estimated coefficients. Their presence can be investigated using a histogram. The plot only shows the possibility of right-skewness which could hint towards an upward trend in the data{% marginnote 'Fig3' "The skewness indicates that above-average temperatures are less common than those below while being more likely to deviate further from the mean." %}.
 
 Measuring the statistical significance of the possible trend requires us to make some distributional assumption. Given the limited sample *(of $117$ observations)*, it makes sense to assume that the data is generated from a $\text{T}$-distribution with $116$ degrees of freedom. To simplify the analysis, the data is assumed to be *independent and identically distributed* (i.i.d). This may be unlikely to hold due to the nature of the data.
 
