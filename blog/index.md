@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Blog
-head_title: Blog
+nav_title: blog
+head_title: blog
+title: Blogposts
 weight: 2
 full_width: true
 ---

@@ -28,7 +28,7 @@ tenyear <- function(data) {
 }
 ```
 
-{% marginfigure 'Fig2' "../assets/temp-trends/2.jpeg" 'Figure 2: Smoothed Dutch Temperatures' %}
+{% marginfigure 'Fig2' "../assets/temp-trends/2.jpeg" 'Figure 2: Smoothed Temperatures' %}
 
 The series appear smoother than in the original plot. What appeared to be a positive trend in Figure $1$, seems to confirmed in the smoothed plot. Despite some slight differences in average temperatures of around $1$ °C, the series fluctuate in the same way. This is, however, unsurprising due to the small size of the country.
 

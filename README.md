@@ -1,15 +1,11 @@
-## Hi there 👋
+# Hi there 👋
 
-### About Me
+I am André! I am an Econometrics and Operations Research at Maastricht University with an interest in Operations Research.
 
-I am André! An Economics student at Maastricht University in the Netherlands. I am interested in Econometrics and would like to pursue a Master's in Econometrics in the Netherlands. I usually like to work with ```R```, but I am open to learning new languages.
+## Why Operations Research?
 
-### Why Programming?
+What fascinates me the most about programming is the fact that anything seems possible. I am deeply interested in pushing the boundaries of what I know to find more elegant, efficient solutions to complex problems.
 
-What amazes me the most about programming is the fact that everything seems possible. The only limit to your creativity is your own mind, and thus it is always nice to try to push the boundaries of what you know.
+## Experience
 
-### Experience
-
-Although my programming knowledge is very limited, I do happen to have some experience in ```R```, and ```Julia``` which I have used extensively during my courses, but I still need to motivate myself to learn ```Python```. I have followed an introductory ```Java``` course in November and December of 2024.
-
-Do not hesitate to contact me! And check out my [website](https://andreghonda.com/).
+```R``` & ```Python``` are my primary tools for statistical analysis and optimization and I have some experience in ```Julia``` and ```Java```. Do not hesitate to contact me! And check out my [website](https://andreghonda.com/).

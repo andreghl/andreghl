@@ -56,9 +56,7 @@ header > nav ul {
   padding: 0;
 }
 header > nav a {
-  font-size: 1.3rem;
-  letter-spacing: 0.15em;
-  text-transform: uppercase;
+  letter-spacing: 0.1em;
   color: settings.$contrast-color;
   text-decoration: none;
   background: unset !important;
@@ -67,8 +65,8 @@ header > nav a {
   float: left;
   margin-top: 0;
   margin-bottom: 0;
-  margin-right: 2rem;
-  margin-top: 1.5rem;
+  margin-right: 1.5rem;
+  margin-top: 12rem;
   padding-right: 0;
   vertical-align: baseline;
 }

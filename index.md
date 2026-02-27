@@ -1,7 +1,7 @@
 ---
 layout: page
-nav_title: AGL
-head_title: André-Ignace Ghonda Lukoki
+nav_title: andre
+head_title: andre
 title: André-Ignace Ghonda Lukoki
 weight: 1
 ---
